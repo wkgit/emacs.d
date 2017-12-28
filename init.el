@@ -22,7 +22,7 @@
 ;;注：新版改成使用0，旧版使用nil的做法已经失效，但(set-scroll-bar-mode nil)可以使用
 
 ; 关闭启动画面
-;(setq inhibit-startup-message t)
+(setq inhibit-startup-message t)
 
 ;highlight当前行
 (global-hl-line-mode 1)
